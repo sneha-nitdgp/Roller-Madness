@@ -18,4 +18,4 @@ The scripts have been written in C#.
     Go to the Builds folder. Open Index.html using Firefox and play the Game!!
     
     
-  (./Images/Capture1.PNG)
+  (Images/Capture1.PNG)
