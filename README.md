@@ -2,12 +2,6 @@
 # Introduction
 This is a ball rolling game made using Unity 3D.
 
-
- <p align="center">
-  <img alt="Roller Madness" src="https://github.com/sneha-nitdgp/Roller-Madness/blob/master/Images/Capture5.png />
-</p>
-
-
 # Scripts
 The scripts have been written in C#.
 
@@ -24,3 +18,6 @@ The scripts have been written in C#.
     Go to the Builds folder. Open Index.html using Firefox and play the Game!!
     
  
+<p align="center">
+  <img align="center" alt="Meme Studio" src="https://github.com/sneha-nitdgp/Roller-Madness/blob/master/Images/Capture5.png" />
+</p>
