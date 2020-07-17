@@ -18,4 +18,6 @@ The scripts have been written in C#.
     Go to the Builds folder. Open Index.html using Firefox and play the Game!!
     
     
-  (Images/Capture1.PNG)
+ <p align="center">
+  <img align="center" alt="Meme Studio" src="https://github.com/sneha-nitdgp/Roller-Madness/blob/master/Images/Capture1.PNG" />
+</p>
