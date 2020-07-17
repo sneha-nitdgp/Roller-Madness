@@ -4,7 +4,7 @@ This is a ball rolling game made using Unity 3D.
 
 
  <p align="center">
-  <img align="center" alt="Roller Madness" src="https://github.com/sneha-nitdgp/Roller-Madness/blob/master/Images/Capture5.png />
+  <img alt="Roller Madness" src="https://github.com/sneha-nitdgp/Roller-Madness/blob/master/Images/Capture5.png />
 </p>
 
 
